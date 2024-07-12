@@ -214,7 +214,7 @@ html {
     background-color: #fff;
     min-height: 100%;
     margin: 0;
-   Arial, sans-serif;
+
     font-size: 14px;
     line-height: 20px;
   }
@@ -3956,7 +3956,7 @@ html {
     align-items: center;
     width: 100%;
     max-width: 100%;
-    margin-top: 2rem;
+    margin-top: 1rem;
     margin-bottom: 2rem;
     display: flex;
   }
@@ -5203,14 +5203,14 @@ html {
     text-align: center;
     background-color: #fff;
     border-radius: 24px;
-    max-width: 10vw;
+    width: 10rem;
     height: 3rem;
   }
   .text-field {
     color: #fff;
     background-color: rgba(255, 255, 255, 0);
     border-radius: 24px;
-    width: 20vw;
+    width: 20rem;
     height: 3rem;
   }
   .form-2 {
@@ -6725,7 +6725,7 @@ html {
   .div-block-63 {
     background-color: rgba(255, 255, 255, 0.1);
     height: 1px;
-    margin-top: 2rem;
+    margin-top:2rem;
     margin-bottom: 2rem;
   }
   .text-block-36 {
@@ -8598,7 +8598,7 @@ html {
     color: #fff;
     margin-top: 0;
     margin-bottom: 0;
-   Arial, sans-serif;
+
     font-size: 32px;
     font-weight: 700;
     line-height: 100%;
@@ -8608,7 +8608,7 @@ html {
     color: rgba(255, 255, 255, 0.6);
     margin-top: 0;
     margin-bottom: 0;
-   Arial, sans-serif;
+
     font-size: 16px;
     font-weight: 400;
     line-height: 100%;
@@ -8643,7 +8643,7 @@ html {
     color: #fff;
     margin-top: 0;
     margin-bottom: 0;
-   Arial, sans-serif;
+
     font-size: 16px;
     font-weight: 400;
     line-height: 100%;
@@ -8700,7 +8700,7 @@ html {
     color: #fff;
     margin-top: 0;
     margin-bottom: 0;
-   Arial, sans-serif;
+
     font-size: 32px;
     font-weight: 700;
     line-height: 100%;
@@ -9049,7 +9049,7 @@ html {
     color: #fff;
     margin-top: 0;
     margin-bottom: 0;
-   Arial, sans-serif;
+
     font-size: 16px;
     font-weight: 400;
     line-height: 100%;
@@ -9092,7 +9092,7 @@ html {
     color: #fff;
     margin-top: 0;
     margin-bottom: 0;
-   Arial, sans-serif;
+
     font-size: 16px;
     font-weight: 400;
     line-height: 100%;
